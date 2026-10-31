@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="THE MAKEUP EDIT">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8f3159"/><stop offset="1" stop-color="#f6c4d5"/></linearGradient>
+ <radialGradient id="shine"><stop stop-color="#fff" stop-opacity=".7"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="900" height="1100" fill="url(#bg)"/>
+<circle cx="730" cy="170" r="240" fill="url(#shine)" opacity=".55"/>
+<circle cx="120" cy="930" r="240" fill="#fff" opacity=".08"/>
+<ellipse cx="460" cy="820" rx="270" ry="55" fill="#34101f" opacity=".28" filter="url(#shadow)"/>
+<g transform="translate(190 260)">
+ <rect x="75" y="95" width="370" height="430" rx="36" fill="#f8e6e9" opacity=".95"/>
+ <rect x="105" y="125" width="310" height="370" rx="24" fill="#6b203e"/>
+ <rect x="130" y="150" width="260" height="320" rx="18" fill="#f5c7d5"/>
+ <circle cx="260" cy="310" r="110" fill="#a74468"/>
+ <circle cx="260" cy="310" r="78" fill="#e8a7bd"/>
+ <circle cx="260" cy="310" r="45" fill="#f7dce4"/>
+ <rect x="485" y="150" width="82" height="350" rx="24" fill="#f8e6e9"/>
+ <rect x="495" y="115" width="62" height="80" rx="14" fill="#6b203e"/>
+ <rect x="510" y="75" width="32" height="60" rx="8" fill="#e7b0c1"/>
+ <path d="M-10 530 Q120 470 190 550 T390 550 T590 530" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="8"/>
+</g>
+<text x="450" y="890" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="58" letter-spacing="4">THE MAKEUP EDIT</text>
+<text x="450" y="950" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="25" letter-spacing="2">Palette • colour • creativity</text>
+<text x="450" y="1030" text-anchor="middle" fill="#fff" fill-opacity=".85" font-family="Arial,sans-serif" font-size="18" letter-spacing="7">VELVET BLUSH BEAUTY HOUSE</text>
+</svg>
